@@ -1,3 +1,3 @@
-# passingbreeze-repo-template
+# passingbreeze-bonfire org's readme file
 
-Repo Template for Passingbreeze's Side Project
+Introduction to Passingbreeze-bonfire org
