@@ -1,4 +1,6 @@
-# Passingbreeze의 사이드 프로젝트 org
+# Passingbreeze's Organization for His Side Project.
 
 ## Components
-- 추가되는 대로 업데이트
+- IaC with Terraform [ ]
+- PaC with Dagger.io [ ]
+- DaC with Diagram Module with Python [ ]
